@@ -1,2 +1,2 @@
 # DIG1TN001
-Orientaatio Digitaalisiin Palveluihin -kurssi
+Orientaatio Digitaalisiin Palveluihin -kurssin esimerkkikoodit.
